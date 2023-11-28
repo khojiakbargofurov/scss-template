@@ -1,0 +1,23 @@
+@use 'footer';
+@use 'header';
+@use 'sidebar'
+
+
+pages/
+|    |- _about.scss
+|    |- _contact.scss
+|    ...
+|    |- _index.scss
+|
+|- themes/
+|    |- _theme.scss
+|    |- _admin.scss
+|    ...
+|    |- _index.scss
+|
+|- vendors/
+|    |- _bootstrap.scss
+|    |- _modern-reset.scss
+|    ...
+|    |- _index.scss
+|
